@@ -1,0 +1,136 @@
+{
+    "categories": [
+      {
+        "id": 1,
+        "name": "Category 1",
+        "imageUrl": "https://example.com/category1.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Category 2",
+        "imageUrl": "https://example.com/category2.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Category 3",
+        "imageUrl": "https://example.com/category3.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Category 4",
+        "imageUrl": "https://example.com/category4.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Category 5",
+        "imageUrl": "https://example.com/category5.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Category 6",
+        "imageUrl": "https://example.com/category6.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Category 7",
+        "imageUrl": "https://example.com/category7.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Category 8",
+        "imageUrl": "https://example.com/category8.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Category 9",
+        "imageUrl": "https://example.com/category9.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Category 10",
+        "imageUrl": "https://example.com/category10.jpg"
+      }
+    ],
+    "products": [
+      {
+        "id": 1,
+        "title": "Product 1",
+        "price": 9.99,
+        "categoryId": 1,
+        "features": ["Feature 1", "Feature 2"],
+        "imageUrl": "https://example.com/product1.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Product 2",
+        "price": 19.99,
+        "categoryId": 1,
+        "features": ["Feature 3", "Feature 4"],
+        "imageUrl": "https://example.com/product2.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Product 3",
+        "price": 14.99,
+        "categoryId": 2,
+        "features": ["Feature 5", "Feature 6"],
+        "imageUrl": "https://example.com/product3.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Product 4",
+        "price": 24.99,
+        "categoryId": 2,
+        "features": ["Feature 7", "Feature 8"],
+        "imageUrl": "https://example.com/product4.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Product 5",
+        "price": 29.99,
+        "categoryId": 3,
+        "features": ["Feature 9", "Feature 10"],
+        "imageUrl": "https://example.com/product5.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Product 6",
+        "price": 12.99,
+        "categoryId": 3,
+        "features": ["Feature 11", "Feature 12"],
+        "imageUrl": "https://example.com/product6.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Product 7",
+        "price": 39.99,
+        "categoryId": 4,
+        "features": ["Feature 13", "Feature 14"],
+        "imageUrl": "https://example.com/product7.jpg"
+      },
+      {
+        "id": 8,
+        "title": "Product 8",
+        "price": 49.99,
+        "categoryId": 4,
+        "features": ["Feature 15", "Feature 16"],
+        "imageUrl": "https://example.com/product8.jpg"
+      },
+      {
+        "id": 9,
+        "title": "Product 9",
+        "price": 16.99,
+        "categoryId": 5,
+        "features": ["Feature 17", "Feature 18"],
+        "imageUrl": "https://example.com/product9.jpg"
+      },
+      {
+        "id": 10,
+        "title": "Product 10",
+        "price": 59.99,
+        "categoryId": 5,
+        "features": ["Feature 19", "Feature 20"],
+        "imageUrl": "https://example.com/product10.jpg"
+      }
+    ]
+  }
