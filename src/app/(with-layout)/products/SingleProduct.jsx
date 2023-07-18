@@ -1,3 +1,4 @@
+import Link from 'next/link';
 import React from 'react';
 
 const SingleProduct = ({product}) => {
@@ -5,7 +6,7 @@ const SingleProduct = ({product}) => {
 
     return (
         <div>
-            <h1>{title}</h1>
+            <Link href={`/products/${id}`}><h1>{title}</h1></Link>
         </div>
     );
 };

@@ -1,10 +1,10 @@
 import getAllProducts from "@/utils/getAllProducts";
 import SingleProduct from "./SingleProduct";
 
-const ProductsPage = async ({ serachParams }) => {
+const ProductsPage = async ({ searchParams }) => {
 // console.log({ serachParams })
 
-  const products = await getAllProducts(serachParams.categoryId);
+  const products = await getAllProducts(searchParams.categoryId);
 
   return (
     <div>
