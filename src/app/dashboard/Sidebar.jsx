@@ -14,6 +14,10 @@ const navLinks = [
     title: "Manage Product",
   },
   {
+    path: "/dashboard/all-products",
+    title: "All Product",
+  },
+  {
     path: "/",
     title: "Home",
   },
